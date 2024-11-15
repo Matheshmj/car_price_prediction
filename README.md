@@ -51,11 +51,11 @@ The dataset used in this project contains various car features, such as:
 - **Random Forest**: Achieved an RMSE of X and R² of Y.
 - **Linear Regression**: Achieved an RMSE of X and R² of Y.
 - **Decision tree Regression**: Achieved an RMSE of X and R² of Y.
-- **Gradient Boosting**: Achieved an RMSE of X and R² of Y.
+- **XGBoosting**: Achieved an RMSE of X and R² of Y.
 
 ## Future Work
 
-- Improve model performance by exploring additional algorithms (e.g., XGBoost, LightGBM).
+- Improve model performance by exploring additional algorithms (e.g.LightGBM).
 - Add more features to enhance prediction accuracy (e.g., car history, location).
 - Integrate the model with a web platform to allow users to compare multiple car prices.
 
