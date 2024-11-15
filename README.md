@@ -33,16 +33,16 @@ The project involves data cleaning, exploratory data analysis (EDA), feature eng
 ## Data
 The dataset used in this project contains various car features, such as:
 
--make, model, year of manufacture
--mileage, engine displacement, fuel type
--seats, transmission, price
+  -make, model, year of manufacture
+  -mileage, engine displacement, fuel type
+  -seats, transmission, price
 
 ## How It Works
--Data Cleaning: The dataset is cleaned to handle missing values, outliers, and irrelevant features. Redundant columns are removed, and necessary transformations are applied to ensure consistency.
--Feature Engineering: New features are created from the existing data (e.g., converting textual data into numerical values such as "mileage" and "fuel type").
--Model Training: Multiple machine learning models are trained on the cleaned dataset to predict the car price based on the features.
--Model Evaluation: The models are evaluated using metrics such as Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) to ensure the best-performing model is used.
--Streamlit App: A web application is developed using Streamlit to allow users to input car features and predict the price.
+  -Data Cleaning: The dataset is cleaned to handle missing values, outliers, and irrelevant features. Redundant columns are removed, and necessary transformations are applied to ensure consistency.
+  -Feature Engineering: New features are created from the existing data (e.g., converting textual data into numerical values such as "mileage" and "fuel type").
+  -Model Training: Multiple machine learning models are trained on the cleaned dataset to predict the car price based on the features.
+  -Model Evaluation: The models are evaluated using metrics such as Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) to ensure the best-performing model is used.
+  -Streamlit App: A web application is developed using Streamlit to allow users to input car features and predict the price.
 
 ## Model Performance
 -Random Forest: Achieved an RMSE of X and R² of Y.
