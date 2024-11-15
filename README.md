@@ -50,6 +50,7 @@ The dataset used in this project contains various car features, such as:
 
 - **Random Forest**: Achieved an RMSE of X and R² of Y.
 - **Linear Regression**: Achieved an RMSE of X and R² of Y.
+- **Decision tree Regression**: Achieved an RMSE of X and R² of Y.
 - **Gradient Boosting**: Achieved an RMSE of X and R² of Y.
 
 ## Future Work
